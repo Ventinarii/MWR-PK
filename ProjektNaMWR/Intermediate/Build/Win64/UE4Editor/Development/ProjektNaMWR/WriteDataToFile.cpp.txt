@@ -1,0 +1,3 @@
+D:\UnrealProjects\ProjektNaMWR\Intermediate\Build\Win64\UE4Editor\Development\ProjektNaMWR\Definitions.ProjektNaMWR.h
+D:\UnrealProjects\ProjektNaMWR\Source\ProjektNaMWR\Public\WriteDataToFile.h
+D:\UnrealProjects\ProjektNaMWR\Intermediate\Build\Win64\UE4Editor\Inc\ProjektNaMWR\WriteDataToFile.generated.h

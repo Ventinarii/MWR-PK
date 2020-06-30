@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProjektNaMWR-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealProjects\ProjektNaMWR\Intermediate\Build\Win64\ProjektNaMWREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UnrealProjects\ProjektNaMWR\Intermediate\Build\Win64\UE4Editor\Development\ProjektNaMWR\WriteDataToFile.cpp.obj"
+"D:\UnrealProjects\ProjektNaMWR\Intermediate\Build\Win64\UE4Editor\Development\ProjektNaMWR\ProjektNaMWR.cpp.obj"
+"D:\UnrealProjects\ProjektNaMWR\Intermediate\Build\Win64\UE4Editor\Development\ProjektNaMWR\ProjektNaMWR.init.gen.cpp.obj"
+"D:\UnrealProjects\ProjektNaMWR\Intermediate\Build\Win64\UE4Editor\Development\ProjektNaMWR\WriteDataToFile.gen.cpp.obj"
+"D:\UnrealProjects\ProjektNaMWR\Intermediate\Build\Win64\UE4Editor\Development\ProjektNaMWR\Default.rc2.res"
+/OUT:"D:\UnrealProjects\ProjektNaMWR\Intermediate\Build\Win64\UE4Editor\Development\ProjektNaMWR\UE4Editor-ProjektNaMWR-0003.lib"
+/INCLUDE:IMPLEMENT_MODULE_ProjektNaMWR

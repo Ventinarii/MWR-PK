@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealProjects\\ProjektNaMWR\\Source\\ProjektNaMWR\\ProjektNaMWR.Build.cs",
+		"D:\\UnrealProjects\\ProjektNaMWR\\Source\\ProjektNaMWR.Target.cs",
+		"D:\\UnrealProjects\\ProjektNaMWR\\Source\\ProjektNaMWREditor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}

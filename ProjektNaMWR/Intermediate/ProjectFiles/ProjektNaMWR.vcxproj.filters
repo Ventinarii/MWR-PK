@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjektNaMWR.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8E76E744-64CF-4079-A355-8CF3B6926679}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjektNaMWR.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjektNaMWREditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{75418183-9977-4BD2-B2C8-942920549299}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProjektNaMWR">
+      <UniqueIdentifier>{5F96C135-862E-4479-9E05-8BAB43C793E3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjektNaMWR\ProjektNaMWR.Build.cs">
+      <Filter>Source\ProjektNaMWR</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjektNaMWR\ProjektNaMWR.cpp">
+      <Filter>Source\ProjektNaMWR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjektNaMWR\ProjektNaMWR.h">
+      <Filter>Source\ProjektNaMWR</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjektNaMWR\Private">
+      <UniqueIdentifier>{663B80A2-46F8-4E8B-9757-EF195FE06125}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjektNaMWR\Private\WriteDataToFile.cpp">
+      <Filter>Source\ProjektNaMWR\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjektNaMWR\Public">
+      <UniqueIdentifier>{2E5F7245-7677-4C36-9F96-DD9E24B4833D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjektNaMWR\Public\WriteDataToFile.h">
+      <Filter>Source\ProjektNaMWR\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

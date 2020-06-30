@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProjektNaMWR",
+			"Path": "D:\\UnrealProjects\\ProjektNaMWR\\Source\\ProjektNaMWR.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjektNaMWREditor",
+			"Path": "D:\\UnrealProjects\\ProjektNaMWR\\Source\\ProjektNaMWREditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
